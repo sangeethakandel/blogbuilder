@@ -1,2 +1,2 @@
 #############################
-This is a readme for web apps
+This is a readme for frontend
