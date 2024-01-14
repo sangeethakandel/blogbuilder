@@ -1,1 +1,1 @@
-This is a fodler for server side code
+This is th folder with all backend logic
